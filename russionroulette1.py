@@ -15,6 +15,7 @@ c=checknum(n)
 
 if c==False:
     print("redo")
+    quit()
 else:
     pass
 
